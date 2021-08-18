@@ -1,0 +1,6 @@
+zstd
+dill
+pandas 
+numpy 
+matplotlib
+seaborn

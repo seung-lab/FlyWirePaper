@@ -1,0 +1,8 @@
+figures/*
+
+# Visual Code
+.vscode/
+
+# Checkpoints
+*/.ipynb_checkpoints
+.ipynb_checkpoints
