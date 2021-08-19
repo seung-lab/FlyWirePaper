@@ -15,5 +15,5 @@ We recommend to use anaconda.
 
 ## Execution
 
-Each notebook contains the relevant paths to the data in `/data` and creates figures and source data in a subfolder of `/figures`.
+Each notebook contains the relevant paths to the data in `/data` and creates figures and source data in a subfolder of `/figures`. Notebooks can be executed with "Run all" or "Shift-Click" through all cells.
 
